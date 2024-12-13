@@ -1,6 +1,5 @@
 packages:
-  - iconUrl: https://avatars.githubusercontent.com/u/91915613
-    latestVersion: v0.12.20+1
+  - iconUrl: https://raw.githubusercontent.com/shahenvaz-khan-knoldus/icon/refs/heads/main/Screenshot%20from%202024-07-26%2018-02-01.png
+    latestVersion: v1.9.6+1
     name: nginx
-    shortDescription: Akri lets you easily expose heterogeneous leaf devices (such
-      as IP cameras and USB devices) as resources in a Kubernetes cluster
+    shortDescription: Nginx helps you to setup proxy for your application
